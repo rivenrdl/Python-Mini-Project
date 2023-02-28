@@ -1,2 +1,2 @@
 # Python-Mini-Project
-Python mini project using Jupyter Notebook
+Python and Data Analyst project using Jupyter Notebook
